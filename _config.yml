@@ -10,9 +10,9 @@ dropcap:	   true
 url:        	 http://www.opensourceagile.com
 
 # Owner/author information
-owner:
+  owner:
   name:           Todd Miller
-  avatar:         ameyjadiye.jpg
+  avatar:         logo.png
   email:          toddmiller1111@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    Programming is 1% knowledge, 2% ability and 97% getting the ability to work with the knowledge :)

@@ -1,5 +1,5 @@
 ---
-author: ameyjadiye
+author: Someone Else
 layout: post
 title: "RC Plane - Preplan"
 date: 2015-09-01 09:00
