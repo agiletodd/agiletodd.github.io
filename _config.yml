@@ -10,7 +10,7 @@ dropcap:	   true
 url:        	 http://www.opensourceagile.com
 
 # Owner/author information
-  owner:
+owner:
   name:           Todd Miller
   avatar:         logo.png
   email:          toddmiller1111@gmail.com
