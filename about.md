@@ -21,7 +21,7 @@ chart: true
     {% endif %}
 {% endfor %}
 
-Thank you for visiting! This blog is intended to be a melting pot of contributions from the Scrum community. This blog **is not** the definitive guide for Scrum! The Scrum guide was developed by Ken Schwaber and Jeff Sutherland and can be found. [http://www.scrumguides.org/](http://www.scrumguides.org/). **This is** a place for metholodgy, tips and tricks for ceremonies, and any surrounding material that may advance your implementation of Scrum. 
+Thank you for visiting! This blog is intended to be a melting pot of contributions from the Scrum community. This blog **is not** the definitive guide for Scrum! The Scrum guide was developed by Ken Schwaber and Jeff Sutherland and can be found at [http://www.scrumguides.org/](http://www.scrumguides.org/). **This is** a place for metholodgy, practices, principles, thoughts, a hypothesis and/or any surrounding material that may advance an implementation of Scrum. 
 
 This website is developed using GitHub Pages and made pretty with the Jekyll theme [https://github.com/codeinventory/codeinventory.github.io](https://github.com/codeinventory/codeinventory.github.io)
 
