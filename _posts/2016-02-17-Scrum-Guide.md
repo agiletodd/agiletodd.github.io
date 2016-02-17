@@ -1,8 +1,8 @@
 ---
 author: Todd Miller 
 layout: post
-title: "Osmotic Communication"
-date: 2016-02-17 11:00
+title: "The Scrum Framework"
+date: 2016-02-17 12:20
 comments: true
 category: Scrum Framework
 tags:
