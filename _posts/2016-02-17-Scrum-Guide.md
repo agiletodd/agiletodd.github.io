@@ -1,12 +1,12 @@
 ---
-author: Todd Miller 
+author: Todd Miller
 layout: post
 title: "The Scrum Framework"
 date: 2016-02-17 12:20
 comments: true
-category: Scrum Framework
+category: Scrum-Framework
 tags:
-- Theoretics
+- Theory
 - Scrum
 ---
 
@@ -19,5 +19,3 @@ The Scrum guide was developed by both co-founders of Scrum: Ken Schwaber and Jef
 There certainly is much more to it than the above but I wanted to highlight the simplicity of the Scrum framework with the complexity coming in implementation.
 
 Read the Scrum guide here: [http://www.scrumguides.org/](http://www.scrumguides.org/)
-
-

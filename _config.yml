@@ -5,9 +5,10 @@ disqus_shortname: opensourceagilecom
 share:            true
 dropcap:	   true
 # Change url to your domain. Leave localhost server or blank when working locally.
-# or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same 
+# or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
 url:        	 http://www.opensourceagile.com
+#url:        	 http://localhost:4000
 
 # Owner/author information
 owner:
@@ -19,16 +20,16 @@ owner:
   # Social networking links used in footer. Update and remove as you like.
   # twitter:        ameyjadiye
   # facebook:       ameyjadiye
-  # github:         ameyjadiye    
+  # github:         ameyjadiye
   # instagram:      ameyjadiye
   # For Google Authorship https://plus.google.com/authorship
   # google_plus:    https://plus.google.com/u/0/+AmeyJadiye
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   UA-46791108-1
-google_verify:      
+google_analytics: UA-74088708-1
+google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:         
+bing_verify:
 
 # Links to include in footer navigation
 # For external links add external: true
@@ -58,10 +59,10 @@ kramdown:
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
-  use_coderay: false
+  enable_coderay: false
 
   coderay:
-    coderay_line_numbers: 
+    coderay_line_numbers:
     coderay_line_numbers_start: 1
     coderay_tab_width: 4
     coderay_bold_every: 10
@@ -69,4 +70,4 @@ kramdown:
 
 gems:
 - jemoji
-
+- jekyll-paginate

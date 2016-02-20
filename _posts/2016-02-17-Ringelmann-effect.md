@@ -1,12 +1,12 @@
 ---
-author: Todd Miller 
+author: Todd Miller
 layout: post
 title: "The Ringelmann Effect"
 date: 2016-02-17 08:00
 comments: true
-category: Theoretics
+category: Theory
 tags:
-- Theoretics
+- Theory
 - Scrum
 ---
 
@@ -16,5 +16,3 @@ References:
 
 + [Harvard Business Review - Why less is more](https://hbr.org/2012/08/why-less-is-more-in-teams/)
 + [Wikipedia](https://en.wikipedia.org/wiki/Ringelmann_effect)
-
-

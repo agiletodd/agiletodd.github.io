@@ -1,12 +1,12 @@
 ---
-author: Todd Miller 
+author: Todd Miller
 layout: post
 title: "Osmotic Communication"
 date: 2016-02-17 11:00
 comments: true
-category: Theoretics
+category: Theory
 tags:
-- Theoretics
+- Theory
 - Scrum
 ---
 
@@ -15,5 +15,3 @@ Alistair Cockburn came up with the theory of Osmotic communication. He states "i
 More information can be found here:
 
 + [http://alistair.cockburn.us/Osmotic+communication](http://alistair.cockburn.us/Osmotic+communication)
-
-

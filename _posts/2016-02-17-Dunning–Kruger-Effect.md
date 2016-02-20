@@ -1,12 +1,12 @@
 ---
-author: Todd Miller 
+author: Todd Miller
 layout: post
 title: "Dunning–Kruger Effect"
 date: 2016-02-17 09:39
 comments: true
-category: Theoretics
+category: Theory
 tags:
-- Theoretics
+- Theory
 - Scrum
 ---
 
@@ -17,5 +17,3 @@ Actual competence may weaken self-confidence, as competent individuals may false
 References:
 
 + [Wikipedia](http://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)
-
-
