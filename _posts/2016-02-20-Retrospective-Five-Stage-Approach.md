@@ -50,7 +50,7 @@ The end result should be two or three goals of improvement the team agrees to wo
 
 At last we've reached the end and have found ways for the team to get better. This is a great opportunity to thank your teammates for a job well done in the Retrospective and during the Sprint. If you rotate who runs this Ceremony it is a good idea to remind the next individual responsible.
 
-Conclusion.
+### Conclusion.
 There are many techniques you may use to implement the five-stage approach. This is what has worked for me in the past but I certainly will continue to experiment.
 
 References:
