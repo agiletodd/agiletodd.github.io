@@ -2,7 +2,7 @@
 author: Todd Miller
 layout: post
 title: "Team Etiquette - Work Together Effectively"
-date: 2016-02-20 05:50
+date: 2016-02-20 17:50
 comments: true
 category: Culture
 tags:
