@@ -1,1 +1,1 @@
-https://github.com/codeinventory/codeinventory.github.io
+I'm looking for solid contributors for this blog to help put some great content out. The blog is not about the specifics of the Scrum Framework (Jeff Sutherland and Ken Schwaber have that covered in the Scrum Guide). Its about supporting methodologies, practices or thoughts that can support and enhance a Scrum implementation. Contact me if you're interested in contributing. 
