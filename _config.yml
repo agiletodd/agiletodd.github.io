@@ -1,8 +1,9 @@
 title:            Open Source Agile
 description:      "Food for Scrum!"
 logo:             logo.png
-disqus_shortname: opensourceagilecom
+disqus_shortname: opensourceagile
 share:            true
+signoff:          false
 dropcap:	   true
 # Change url to your domain. Leave localhost server or blank when working locally.
 # or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same
