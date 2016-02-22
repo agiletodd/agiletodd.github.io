@@ -27,6 +27,6 @@ Conflicts have been resolved and the team begins rallying behind a common goal. 
 The team has reached the mecca of high performance and self-organization. They are able to operate as a cohesive unit and are driven to be successful as a unit.
 
 ### Conclusion
-It is not uncommon for teams to jump between stages. A good team will recognize this and self correct to rally to the performing stage. ScrumMaster's can lend a hand by recognizing where teams presently exist in this model and facilitate to get them to the next level. Note, this is a Scrum Team responsibility the ScrumMaster can only facilitate.
+It is not uncommon for teams to jump between stages. A good team will recognize this and self correct to rally to the performing stage. ScrumMasters can lend a hand by recognizing where teams presently exist in this model and facilitate to get them to the next level. Note, this is a Scrum Team responsibility the ScrumMaster can only facilitate.
 
 Reference: [Wikipedia](https://en.wikipedia.org/wiki/Tuckman%27s_stages_of_group_development)
