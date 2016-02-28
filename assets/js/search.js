@@ -6,6 +6,7 @@ jQuery(function() {
     this.field('title', { boost: 10 });
     this.field('author');
     this.field('category');
+    this.field('snippet');
   });
 
   // Download the data from the JSON file we generated
@@ -21,13 +22,23 @@ jQuery(function() {
   });
 
 $('#search_box').on('input',function(e){
-  var query = $("#search_box").val(); // Get the value for the text field
-  var results = window.idx.search(query); // Get lunr to perform a search
-  display_search_results(results); // Hand the results off to be displayed
+    var query = $("#search_box").val(); // Get the value for the text field
+
+    if (!query.length)
+    {
+        //clear the results and get out of here if the textbox is empty
+        var search_results = $("#search_results");
+        search_results.empty();
+        return;
+    }
+
+    var results = window.idx.search(query); // Get lunr to perform a search
+    display_search_results(results); // Hand the results off to be displayed
    });
 
   function display_search_results(results) {
     var $search_results = $("#search_results");
+    var query = $("#search_box").val();
 
     // Wait for data to load
     window.data.then(function(loaded_data) {
@@ -50,7 +61,7 @@ $('#search_box').on('input',function(e){
           $search_results.append(appendString);
         });
       } else {
-        $search_results.html('<dt>No results found</dt>');
+        $search_results.html('<dt>No results found keep trying!</dt>');
       }
     });
   }
