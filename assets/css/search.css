@@ -1,0 +1,14 @@
+dt {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+dd {
+  margin: 0;
+  padding: 0 .5em 0.5em 0;
+}
+
+.results
+{
+  float:left;
+}

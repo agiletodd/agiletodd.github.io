@@ -1,4 +1,5 @@
 ---
+layout: null
 ---
 [
 	{% for post in site.posts %}
@@ -6,8 +7,10 @@
 		  "title"      : "{{ post.title | escape }}",
 		  "category"   : "{{ post.category }}",
 		  "url"        : "{{ site.url }}{{ post.url }}",
+			"author"		 : "{{ post.author | xmlescape }}",
 		  "date"       : "{{ post.date }}",
-		  "shortdate"  : "{{ post.date | date: '%B %d, %Y' }}"
+		  "shortdate"  : "{{ post.date | date: '%B %d, %Y' }}",
+			"snippet"    : "{{ post.content | strip_html | truncatewords:35 }}"
 		} {% if forloop.last %}{% else %},{% endif %}
 	{% endfor %}
 ]
