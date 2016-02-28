@@ -3,12 +3,32 @@ dt {
   text-decoration: underline;
 }
 
-dd {
+dd.snippet {
   margin: 0;
   padding: 0 .5em 0.5em 0;
+}
+
+dd.author {
+  margin: 0;
+  font-style: italic;
 }
 
 .results
 {
   float:left;
+}
+
+.category
+{
+  font-size: smaller;
+  font-weight: normal;
+  display: inline-block;
+  line-height: 1;
+  padding: 4px 6px;
+  margin: 1px 0 0 10px;
+  text-decoration: none;
+  border: 0.0625rem solid black;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
 }

@@ -41,8 +41,10 @@ $('#search_box').on('input',function(e){
           var item = loaded_data[result.ref];
 
           // Build a snippet of HTML for this result
-          var appendString = '<dt><a href="' + item.url + '">' + item.title + ' <i>(' + item.author + ')</i></a></dt>';
-          appendString += '<dd>' + item.snippet + '</dd>';
+          var appendString = '<dt><a href="' + item.url + '">' + item.title + '</a>';
+          appendString += '<div class="category"> ' + item.category + '</div></dt>';
+          appendString += '<dd class="author"> by ' + item.author + '</dd>';
+          appendString += '<dd class="snippet">' + item.snippet + '</dd>';
 
           // Add it to the results
           $search_results.append(appendString);
