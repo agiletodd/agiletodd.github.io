@@ -72,5 +72,4 @@ kramdown:
     coderay_css: class
 
 gems:
-- jemoji
 - jekyll-paginate
