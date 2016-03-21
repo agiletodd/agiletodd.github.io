@@ -1,5 +1,6 @@
 ---
 author: Todd Miller
+linkedin_username: todd-miller-16996420
 layout: post
 title: "The New New Product Development Game"
 date: 2016-02-17 12:20

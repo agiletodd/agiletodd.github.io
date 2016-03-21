@@ -1,5 +1,6 @@
 ---
 author: Todd Miller
+linkedin_username: todd-miller-16996420
 layout: post
 title: "Dunning–Kruger Effect"
 date: 2016-02-17 09:39

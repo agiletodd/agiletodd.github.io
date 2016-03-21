@@ -1,5 +1,6 @@
 ---
 author: Todd Miller
+linkedin_username: todd-miller-16996420
 layout: post
 title: "T-Shaped People"
 date: 2016-02-29 12:15

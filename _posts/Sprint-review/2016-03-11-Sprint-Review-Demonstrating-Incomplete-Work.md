@@ -1,5 +1,6 @@
 ---
 author: Todd Miller
+linkedin_username: todd-miller-16996420
 layout: post
 title: "Demonstrating Incomplete Work in a Sprint Review"
 date: 2016-03-11 06:30

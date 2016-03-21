@@ -1,5 +1,6 @@
 ---
 author: Todd Miller
+linkedin_username: todd-miller-16996420
 layout: post
 title: "Team Etiquette - Work Together Effectively"
 date: 2016-02-20 17:50

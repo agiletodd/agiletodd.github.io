@@ -1,5 +1,6 @@
 ---
 author: Todd Miller
+linkedin_username: todd-miller-16996420
 layout: post
 title: "Tuckman's stages of group development"
 date: 2016-02-22 12:15

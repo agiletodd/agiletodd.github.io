@@ -1,5 +1,6 @@
 ---
 author: Todd Miller
+linkedin_username: todd-miller-16996420
 layout: post
 title: "Three C's: The Components of a User Story"
 date: 2016-02-22 18:36
