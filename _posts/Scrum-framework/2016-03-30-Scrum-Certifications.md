@@ -42,6 +42,6 @@ For more information on Scrum Alliance certifications or courses visit:
 ### Conclusion
 As of today, the Scrum.org and Scrum Alliance certifications are equally weighted to prospective employers. Scrum.org's mission is "Improving the Profession of Software Development" whereas the Scrum Alliance is "Transform your world of work today". This is subtly different but impactful to the student experience. Scrum.org is exclusively geared towards the software development world and the curriculum reflects as such. Scrum Alliance may not be (remember the Scrum Alliance curriculum is in the trainers hands).
 
-What's my opinion? I am a bit biased because I am a trainer candidate for Scrum.org. I feel like the exams are legit and truly test the knowledge of the person taking the test. 
+What's my opinion? I am a bit biased because I am a trainer candidate for Scrum.org. I feel like the exams are legitimate and truly test the knowledge of the person taking the test. 
 
-The CSM and CSPO certifications simply require the attendance of a class. I was fortunate enough to have been through Mike Cohn's CSM and CSPO courses and really gained an excellent comprehension of Scrum because he's a well known and excellent instructor. I will be forever grateful for having attended his classes but right now my vote for the more legit certification is for Scrum.org.
+The CSM and CSPO certifications simply require the attendance of a class. I was fortunate enough to have been through Mike Cohn's CSM and CSPO courses and really gained an excellent comprehension of Scrum because he's a well known and excellent instructor. I will be forever grateful for having attended his classes but right now my vote for the more meaningful certification is for Scrum.org.
