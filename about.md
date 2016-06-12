@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /about/index.html
-title: Xperient Software
+title: About
 tags: Scrum, Agile
 chart: true
 ---
