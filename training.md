@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /training/index.html
+permalink: /training
 title: Scrum Training
 tags: Scrum Course, Scrum Training, New York, Pennsylvania, Maryland, Virginia
 chart: true
