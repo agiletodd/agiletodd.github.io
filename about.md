@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /about
+permalink: /about/index.html
 title: Xperient Software
 tags: Scrum, Agile
 chart: true
