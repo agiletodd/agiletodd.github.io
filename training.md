@@ -2,7 +2,7 @@
 layout: page
 permalink: /training
 title: Scrum Training
-tags: Scrum Course, Scrum Training, New York, Pennsylvania, Maryland, Virginia
+tags: Scrum Course, Scrum Training, New York, Pennsylvania, Maryland, Virginia 
 chart: true
 ---
 
