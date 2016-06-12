@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /about/index.html
-title: Open Source Agile
+title: Xperient Software
 tags: Scrum, Agile
 chart: true
 ---
@@ -21,12 +21,16 @@ chart: true
     {% endif %}
 {% endfor %}
 
-Thank you for visiting!
+Hi my name is Todd Miller and I am a Professional Scrum Trainer for Scrum.org. I am located in York, Pennsylvania which makes me easily accessible for training throughout the northeastern United States.
 
-Hi my name is Todd Miller you can find out more about me on <a target="_blank" href="https://linkedin.com/in/todd-miller-16996420">LinkedIn</a>. I am hopeful that over time this blog will become a melting pot of supporting ideas and artifacts that will help to sustain and advance an implementation of Scrum.
+### About Me
+I have experience as a ScrumMaster, Product Owner, Agile Coach and Developer on variety of technical and creative projects across a multitude of industries. At present I train and coach enterprises and teams across the United States on the Scrum framework, enterprise agile transformation and professional software development. On the technical side, I have development experience in the Microsoft .NET technology stack, Team Foundation Server and Visual Studio Team Services.
 
-Want to contribute? I'm looking for contributors to help build the content here. Find me on GitHub at [https://github.com/agiletodd/agiletodd.github.io](https://github.com/agiletodd/agiletodd.github.io)
 
-This is a community blog and currently has {{ site.posts | size }} posts in {{ site.categories | size }} categories which combined have {{ total_words }} words, which will take an average reader ({{ site.wpm }} WPM) approximately <span class="time">{{ total_readtime }}</span> minutes to read. {% if featuredcount != 0 %}There are <a href="{{ site.url }}/featured">{{ featuredcount }} featured posts</a>, you should definitely check those out.{% endif %} The most recent post is {% for post in site.posts limit:1 %}{% if post.description %}<a href="{{ site.url }}{{ post.url }}" title="{{ post.description }}">"{{ post.title }}"</a>{% else %}<a href="{{ site.url }}{{ post.url }}" title="{{ post.description }}" title="Read more about {{ post.title }}">"{{ post.title }}"</a>{% endif %}{% endfor %} which was published on {% for post in site.posts limit:1 %}{% assign modifiedtime = post.modified | date: "%Y%m%d" %}{% assign posttime = post.date | date: "%Y%m%d" %}<time datetime="{{ post.date | date_to_xmlschema }}" class="post-time">{{ post.date | date: "%d %b %Y" }}</time>{% if post.modified %}{% if modifiedtime != posttime %} and last modified on <time datetime="{{ post.modified | date: "%Y-%m-%d" }}" itemprop="dateModified">{{ post.modified | date: "%d %b %Y" }}</time>{% endif %}{% endif %}{% endfor %}. The last commit was on {{ site.time | date: "%A, %d %b %Y" }} at {{ site.time | date: "%I:%M %p" }} [UTC](http://en.wikipedia.org/wiki/Coordinated_Universal_Time "Temps Universel Coordonné").
+### Contact Me
+For all inquiries email me at <a href="mailto:xperientsoftware@gmail.com" target="_top">xperientsoftware@gmail.com</a> For a detailed history of my work visit my <a target="_blank" href="https://linkedin.com/in/todd-miller-16996420">LinkedIn Profile</a>.
+
+### My Blog
+My blog currently has {{ site.posts | size }} posts in {{ site.categories | size }} categories which combined have {{ total_words }} words, which will take an average reader ({{ site.wpm }} WPM) approximately <span class="time">{{ total_readtime }}</span> minutes to read. {% if featuredcount != 0 %}There are <a href="{{ site.url }}/featured">{{ featuredcount }} featured posts</a>, you should definitely check those out.{% endif %} The most recent post is {% for post in site.posts limit:1 %}{% if post.description %}<a href="{{ site.url }}{{ post.url }}" title="{{ post.description }}">"{{ post.title }}"</a>{% else %}<a href="{{ site.url }}{{ post.url }}" title="{{ post.description }}" title="Read more about {{ post.title }}">"{{ post.title }}"</a>{% endif %}{% endfor %} which was published on {% for post in site.posts limit:1 %}{% assign modifiedtime = post.modified | date: "%Y%m%d" %}{% assign posttime = post.date | date: "%Y%m%d" %}<time datetime="{{ post.date | date_to_xmlschema }}" class="post-time">{{ post.date | date: "%d %b %Y" }}</time>{% if post.modified %}{% if modifiedtime != posttime %} and last modified on <time datetime="{{ post.modified | date: "%Y-%m-%d" }}" itemprop="dateModified">{{ post.modified | date: "%d %b %Y" }}</time>{% endif %}{% endif %}{% endfor %}. The last commit was on {{ site.time | date: "%A, %d %b %Y" }} at {{ site.time | date: "%I:%M %p" }} [UTC](http://en.wikipedia.org/wiki/Coordinated_Universal_Time "Temps Universel Coordonné").
 
 This website is developed using GitHub Pages and made beautiful with the Jekyll theme [https://github.com/codeinventory/codeinventory.github.io](https://github.com/codeinventory/codeinventory.github.io).

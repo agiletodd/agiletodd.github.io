@@ -1,14 +1,14 @@
-title:            Open Source Agile
-description:      "Food for Scrum"
+title:            Scrum and Agile Training & Consulting
+description:      "Xperient Software LLC"
 logo:             logo.png
-disqus_shortname: opensourceagile
+disqus_shortname: xperientsoftwarellc
 share:            true
-signoff:          false
+signoff:          false 
 dropcap:	   true
 # Change url to your domain. Leave localhost server or blank when working locally.
 # or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
-url:        	 http://www.opensourceagile.com
+url:        	 http://www.xperientsoftware.com
 #url:        	 http://localhost:4000
 
 # Owner/author information
@@ -19,7 +19,8 @@ owner:
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    empirical - Relying on or derived from observation or experiment
   # Social networking links used in footer. Update and remove as you like.
-  # twitter:        ameyjadiye
+  twitter:        todd_miller11
+  linkedin:       agiletodd
   # facebook:       ameyjadiye
   # github:         ameyjadiye
   # instagram:      ameyjadiye
@@ -27,7 +28,7 @@ owner:
   # google_plus:    https://plus.google.com/u/0/+AmeyJadiye
 
 # Analytics and webmaster tools stuff goes here
-google_analytics: UA-74088708-1
+google_analytics: UA-79216621-1
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
@@ -39,12 +40,14 @@ links:
     url: /
     external: false
     icon: home
-  - title: Search
-    url: /search
-  - title: Categories
-    url: /categories
+  - title: Training
+    url: /training
   - title: About
     url: /about
+  - title: Blog Categories
+    url: /blog
+  - title: Search
+    url: /search
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
