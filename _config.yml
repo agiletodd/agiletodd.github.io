@@ -40,10 +40,10 @@ links:
     url: /
     external: false
     icon: home
-  - title: Training
-    url: /training
   - title: About
     url: /about
+  - title: Training
+    url: /training
   - title: Blog Categories
     url: /blog
   - title: Search
