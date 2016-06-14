@@ -260,7 +260,8 @@ main, .notepad-share-icons, .notepad-disqus {
     .notepad-content .notepad-index-post .notepad-post-header .notepad-post-title {
       text-align: left;
       font-size: 2.125rem;
-      margin-bottom: 0.9375rem; } }
+      margin-bottom: 0.9375rem;
+      text-decoration: underline;} }
   .notepad-content .notepad-index-post .notepad-post-excerpt {
     color: black;
     font-size: 1.25rem;
