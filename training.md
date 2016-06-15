@@ -2,7 +2,7 @@
 layout: page
 permalink: /training
 title: Scrum Training
-tags: Scrum Course, Scrum Training, New York, Pennsylvania, Maryland, Virginia 
+tags: Scrum Course, Scrum Training, New York, Pennsylvania, Maryland, Virginia
 chart: true
 ---
 
@@ -11,6 +11,11 @@ I deliver both private and public Scrum.org courses throughout the Northeastern 
 ### Current Public Courses
 + [Professional Scrum Foundations, Harrisburg, PA, September 12-13 2016](http://courses.scrum.org/classes/show/4293)
 + [Professional Scrum Developer (.Net), Harrisburg, PA, October 3-5 2016](http://courses.scrum.org/classes/show/4294)
+
+### Private Courses
+I welcome the opportunity to come into your organization and train you in a private course. Private courses are for students all residing from the same organization. These courses are generally taught on premise but other accommodations can be made. 
+
+This is a cost effective way to get professional Scrum training in your organization in a private setting. Email me <a href="mailto:xperientsoftware@gmail.com" target="_top">xperientsoftware@gmail.com</a> for my availability.
 
 ### Professional Scrum Foundations
 The Professional Scrum Foundations (PSF) course is a 2-day course that teaches Scrum in a highly practical way. Working in a series of Sprints, teams of students build a software application, thereby facing real-life problems. The mechanics, roles, principles and (empirical) process of Scrum are demonstrated. Common missteps and misunderstandings are discussed so students grow a higher awareness of their symptoms.
