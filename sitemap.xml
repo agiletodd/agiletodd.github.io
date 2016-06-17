@@ -5,11 +5,14 @@
     <url>
         <loc>{{ site.url }}</loc>
     </url>
-    
+
     {% for page in site.pages %}
+    {% if page.sitemapexclude %}
+    {% else %}
     <url>
         <loc>{{ site.url }}{{ page.url }}</loc>
     </url>
+    {% endif %}
     {% endfor %}
 
     {% for post in site.posts %}
