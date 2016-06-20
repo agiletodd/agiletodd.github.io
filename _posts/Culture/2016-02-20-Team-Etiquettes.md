@@ -14,7 +14,7 @@ tags:
 A team etiquette may also be called a team working agreement. The purpose of developing a team etiquette is so a team has a set of rules to follow that will enable them to work effectively together. The etiquette should be defined by the team and contain high level ‘rules’ that all team members agree to follow. In a Scrum environment, the Scrum Team owns this item and can use it as a tool to keep the team running smoothly.
 
 ### How to define a team etiquette
-The ScrumMaster will schedule a time when all teammates are available (preferably when the entire team is co-located). The team will then brainstorm items that have been pain points in the past or could potentially negatively impact a team working effectively together. The etiquette should not be an exhaustive list of every possible pain point the team could encounter. It should contain a list of ten or so items that the team finds very critical to its success and health.
+The Scrum Master will schedule a time when all teammates are available (preferably when the entire team is co-located). The team will then brainstorm items that have been pain points in the past or could potentially negatively impact a team working effectively together. The etiquette should not be an exhaustive list of every possible pain point the team could encounter. It should contain a list of ten or so items that the team finds very critical to its success and health.
 
 As with anything else in an agile environment, if it’s not working then change it. The best opportunity to change (add/edit/remove) etiquette items is during the Sprint Retrospective. The Scrum Team should open the retrospective by asking if any modifications to the etiquette are necessary.
 

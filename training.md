@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: main
 permalink: /training
 title: Scrum Training
 tags: Scrum Course, Scrum Training, New York, Pennsylvania, Maryland, Virginia
@@ -20,7 +20,7 @@ This is a cost effective way to get professional Scrum training in your organiza
 ### Professional Scrum Foundations
 The Professional Scrum Foundations (PSF) course is a 2-day course that teaches Scrum in a highly practical way. Working in a series of Sprints, teams of students build a software application, thereby facing real-life problems. The mechanics, roles, principles and (empirical) process of Scrum are demonstrated. Common missteps and misunderstandings are discussed so students grow a higher awareness of their symptoms.
 
-Attending this course will give you a credit to taking the Professional ScrumMaster I exam. Upon passing the exam you will receive a PSM I certification.
+Attending this course will give you a credit to taking the Professional Scrum Master I exam. Upon passing the exam you will receive a PSM I certification.
 
 [Click here for more information](https://www.scrum.org/Courses/Professional-Scrum-Foundations)
 

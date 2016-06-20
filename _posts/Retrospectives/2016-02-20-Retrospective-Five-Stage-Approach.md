@@ -13,13 +13,13 @@ tags:
 
 The Sprint Retrospective is the teams opportunity to find ways to be more efficient and to discuss what went right and wrong during the Sprint. This is a very important meeting and is the centerpiece of the empirical nature of an agile environment. Below I discuss a five-stage approach that can help you identify areas of improvement for a team.
 
-There are many techniques a ScrumMaster can use to run a good Sprint Retrospective. Mike Cohn generally recommends the Start, Stop, Continue approach as highlighted in the following blog post, [http://www.mountaingoatsoftware.com/agile/scrum/sprint-retrospective](http://www.mountaingoatsoftware.com/agile/scrum/sprint-retrospective)
+There are many techniques a Scrum Master can use to run a good Sprint Retrospective. Mike Cohn generally recommends the Start, Stop, Continue approach as highlighted in the following blog post, [http://www.mountaingoatsoftware.com/agile/scrum/sprint-retrospective](http://www.mountaingoatsoftware.com/agile/scrum/sprint-retrospective)
 
 Although I have used the aforementioned approach and had great success I changed my approach after reading Agile Retrospectives Making Good Teams Great by Esther Derby and Diane Larsen. I did not necessarily agree with an overwhelmingly long retrospective (as can be recommended in the book) but it did lead me to believe that I could be getting a little more out of the Sprint Retrospective than I was.
 
 ### The Five-Stage Approach
 
-The five-stage approach has helped me better identify areas where the team can improve. I recommend this meeting be time-boxed at one hour. The ScrumMaster often runs a Sprint Retrospective but once you get a level of comfort with this technique, I recommend that teammates rotate the responsibility. It goes without often being said but this Ceremony is exclusively for the team.
+The five-stage approach has helped me better identify areas where the team can improve. I recommend this meeting be time-boxed at one hour. The Scrum Master often runs a Sprint Retrospective but once you get a level of comfort with this technique, I recommend that teammates rotate the responsibility. It goes without often being said but this Ceremony is exclusively for the team.
 
 ### Stage 1: Set the Stage.
 

@@ -13,7 +13,7 @@ tags:
 
 The Scrum guide was developed by both co-founders of Scrum: Ken Schwaber and Jeff Sutherland. It is the definitive guide to the Scrum Framework and explains the Roles, Events and Artifacts that comprise the Scrum framework. The Scrum framework consists of:
 
-+ **Roles** - Product Owner, ScrumMaster and Development Team
++ **Roles** - Product Owner, Scrum Master and Development Team
 + **Events** - Sprint, Daily Scrum, Sprint Planning, Sprint Review and Sprint Retrospective
 + **Artifacts** - Product Backlog, Sprint Backlog and Increment
 

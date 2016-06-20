@@ -29,7 +29,7 @@ For more information on Scrum.org certifications or courses visit:
 + [Scrum.org Courses](https://www.scrum.org/Courses)
 
 ### Scrum Alliance
-Scrum Alliance offers base certifications for a Certified ScrumMaster (CSM), Certified Product Owner (CSPO), and Certified Scrum Developer (CSD) and more advanced certifications like the Certified Scrum Professional (CSP), Certified Enterprise Coach (CEC), or Certified Team Coach (CTC).
+Scrum Alliance offers base certifications for a Certified Scrum Master (CSM), Certified Product Owner (CSPO), and Certified Scrum Developer (CSD) and more advanced certifications like the Certified Scrum Professional (CSP), Certified Enterprise Coach (CEC), or Certified Team Coach (CTC).
 
 The CSM requires that you attend a CSM class and pass a 40 question exam. The exam is a cake walk so it's really the attendance of the course the Scrum Alliance is striving for. The CSPO only requires that you attend a CSPO course and has no exam. The CSD is at the discretion of the instructor. The more advanced certifications are experience driven and require that you hold other Scrum Alliance certifications before applying.
 

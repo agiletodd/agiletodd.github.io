@@ -17,7 +17,7 @@ I’ve witnessed many unpleasant Agile projects, even to the point of a project�
 Here are 3 ways Product Owners are dooming their own projects, and key advice to turning the tables on these bad habits:
 
 ### Attending Daily Scrums to hand out tasks.
-Disrupting the Daily Scrum to task check or to get a status update causes a negative reaction on self-organization, a key component of team problem solving. So does pushing and pulling user stories on or off the Sprint Backlog at will. Remember that the Development team owns the Sprint Backlog. Allow the ScrumMaster to be the team’s Sprint Backlog shepherd and leave it alone!
+Disrupting the Daily Scrum to task check or to get a status update causes a negative reaction on self-organization, a key component of team problem solving. So does pushing and pulling user stories on or off the Sprint Backlog at will. Remember that the Development team owns the Sprint Backlog. Allow the Scrum Master to be the team’s Sprint Backlog shepherd and leave it alone!
 
 A happy team trusts their Product Owner, and the best way to gain trust is by listening to the team and being authentic. Remember to be available when they need you, check in (don’t check up), give credit where credit is due, and encourage working at a sustainable pace. Lastly, celebrate successes and have fun from time to time!
 
