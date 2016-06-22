@@ -31,7 +31,7 @@ After attending the PSF course each student will receive a credit to take the Sc
 At present the exam credit doesn't expire but I recommend that students take the exam soon after the course. I will post a study guide at a later date (it's on my Product Backlog).
 
 ### Where can I attend a course?
-There are amazing Professional Scrum Trainers all over the world. You can find a trainer on the [Scrum.org](http://www.Scrum.org) website. I offer both public and private courses. For more information visit my [training page](/Training) or email me at <a href="mailto:todd@xperientsoftware.com" target="_top">todd@xperientsoftware.com</a>.
+There are amazing Professional Scrum Trainers all over the world. You can find a trainer on the [Scrum.org](http://www.Scrum.org) website. I offer both public and private courses. For more information visit my [training page](/training) or email me at <a href="mailto:todd@xperientsoftware.com" target="_top">todd@xperientsoftware.com</a>.
 
 ### Helpful Links
 + [Scrum.org official Professional Scrum Foundations course description](https://www.scrum.org/Courses/Professional-Scrum-Foundations)
