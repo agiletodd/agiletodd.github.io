@@ -12,7 +12,7 @@ tags:
 - Agile
 - Scrum
 ---
-Looking for training on Scrum but unsure which course is the right course for you? Is your organization struggling adopting Agile? Maybe you just want to take a course that will help you build really good software.
+Looking for training on the Scrum framework but unsure which course is the right course for you? Is your organization struggling with adopting Scrum? Maybe you just want to take a course that will help you build really good software.
 
 There are an ever growing number of Scrum courses surfacing in the software development industry. There is no doubt that Agile and Scrum are very hot right now. To maximize your potential it is important to select training that is in alignment with your goals. Most importantly you have to make sure the trainer and the curriculum they teach will not waste your money.
 
@@ -25,13 +25,15 @@ I took the PSF course in London as part of the Scrum.org train the trainer progr
 
 For all you coders out there, I was elated at the fact I got to pound some keys during the class. Non-coders don't be scared you don't have to code to be a developer. Everyone is a developer in Scrum because we all develop something (requirements, test cases, design, etc.).
 
-### Do I get a Certification
-After attending the PSF course each student will receive a credit to take the Scrum.org [Professional Scrum Master level I (PSM I)](https://www.scrum.org/Assessments/Professional-Scrum-Master-Assessments/PSM-I-Assessment) exam. The PSM I certification is the premier certification recognized in the software industry that will display a solid understanding of Scrum on your resume. You can read more about the differences in certification on my blog post on [Debunking Scrum Certifications](/training-certification/2016/03/30/Scrum-Certifications).
+### Do I get a Certification?
+After attending the PSF course each student will receive a credit to take the Scrum.org [Professional Scrum Master level I (PSM I)](https://www.scrum.org/Assessments/Professional-Scrum-Master-Assessments/PSM-I-Assessment) assessment. The PSM I certification is the premier certification recognized in the software development industry that will display a solid understanding of Scrum on your resume. You can read more about the differences in certification on my blog post on [Debunking Scrum Certifications](/training-certification/2016/03/30/Scrum-Certifications).
 
 At present the exam credit doesn't expire but I recommend that students take the exam soon after the course. I will post a study guide at a later date (it's on my Product Backlog).
 
+### Where can I attend a course?
+There are amazing Professional Scrum Trainers all over the world. You can find a trainer on the [Scrum.org](http://www.Scrum.org) website. I offer both public and private courses. For more information visit my [training page](/Training) or email me at <a href="mailto:todd@xperientsoftware.com" target="_top">todd@xperientsoftware.com</a>.
+
 ### Helpful Links
-+ [My training and public course list](/Training)
 + [Scrum.org official Professional Scrum Foundations course description](https://www.scrum.org/Courses/Professional-Scrum-Foundations)
 + [Professional Scrum Master level I (PSM I)](https://www.scrum.org/Assessments/Professional-Scrum-Master-Assessments/PSM-I-Assessment)
 + [Debunking Scrum Certifications](/training-certification/2016/03/30/Scrum-Certifications)
