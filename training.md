@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /training
+permalink: /training/
 title: Scrum Training
 tags: Scrum Course, Scrum Training, New York, Pennsylvania, Maryland, Virginia
 chart: true
@@ -8,9 +8,7 @@ chart: true
 
 I deliver both private and public Scrum.org courses throughout the Northeastern United States. Below you can find a description for the Scrum.org courses I am presently licensed to teach. For additional information on a course please email me at <a href="mailto:todd@xperientsoftware.com" target="_top">todd@xperientsoftware.com</a>
 
-### Current Public Courses
-+ [Professional Scrum Foundations, Harrisburg, PA, September 12-13 2016](http://courses.scrum.org/classes/show/4293)
-+ [Professional Scrum Developer (.Net), Harrisburg, PA, October 3-5 2016](http://courses.scrum.org/classes/show/4294)
+{% include public_courses.md %}
 
 ### Private Courses
 I welcome the opportunity to come into your organization and train you in a private course. Private courses are for students all residing from the same organization. These courses are generally taught on premise but other accommodations can be made.
