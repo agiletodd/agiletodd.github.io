@@ -3,12 +3,16 @@ author: Todd Miller
 linkedin_username: todd-miller-16996420
 layout: post
 title: "Tips for Managing the Product Backlog"
+description: "7 Tips on improving the product backlog"
 date: 2016-05-24 07:00
 comments: true
 category: Product-Owner
 tags:
+- Product Backlog
+- Product Backlog Tips
 - Product Owner
 - Scrum
+- Todd Miller
 ---
 
 Product backlog management is an art form that requires relentless attention. As a Product Owner, it’s your responsibility to run a well-oiled machine and keep the product backlog healthy. This includes accommodating stakeholders, development teams, and most importantly, users. But how do you manage a product backlog in a way that is effective and results-driven?
@@ -42,7 +46,7 @@ Requirements on an Agile project are emergent, meaning that we uncover the detai
 
 Emergent requirements minimize upfront requirement gathering efforts, allowing us to quickly and efficiently change course and mitigate the risk of making incorrect assumptions. Avoid diving into every detail of each requirement and please don’t end up regressing into iterative waterfall. Likewise, remember the intention of a user story is to be a conversation piece not a contract.
 
-### 6) Stop Thinking Estimates are Perfect. 
+### 6) Stop Thinking Estimates are Perfect.
 
 There’s a movement to stop estimating in Agile. Why? Because humans are terrible at estimation and we shouldn’t spend a lot of time on it. Instead, techniques like poker planning or affinity estimation allow Development Teams to quickly forecast a product backlog. This will help you to negotiate scope with the masses and will appease stakeholders with a date.
 

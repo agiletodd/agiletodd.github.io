@@ -3,13 +3,16 @@ author: Todd Miller
 linkedin_username: todd-miller-16996420
 layout: post
 title: "Debunking Scrum Certifications"
+description: "Which Scrum certification is right for you?"
 date: 2016-03-30 06:20
 comments: true
 category: Training-Certification
 tags:
-- Certifications
-- Scrum
-- Training
+- Scrum Certifications
+- Scrum Training
+- Agile Training
+- Agile Certification
+- Todd Miller
 ---
 
 I am frequently asked about what an individual can do to gain a better understanding of Scrum and display that understanding through certification. Certifications are a good thing and help to demonstrate an individuals expertise in a given domain. They are often what employers look for when gauging a candidates experience and can legitimize a person's breadth of knowledge.

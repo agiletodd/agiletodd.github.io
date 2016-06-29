@@ -7,8 +7,8 @@ date: 2016-02-17 09:39
 comments: true
 category: Theory
 tags:
-- Theory
-- Scrum
+- Scrum Theory
+- Todd Miller
 ---
 
 The Dunning–Kruger effect is a cognitive bias in which unskilled individuals suffer from illusory superiority, mistakenly rating their ability much higher than average. This bias is attributed to a metacognitive inability of the unskilled to recognize their mistakes.

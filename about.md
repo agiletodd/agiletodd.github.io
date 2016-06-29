@@ -2,7 +2,8 @@
 layout: page
 permalink: /about/
 title: About
-tags: Scrum, Agile
+tags: Todd Miller, Scrum Course, Scrum Training, Scrum Courses New York, Scrum Courses Pennsylvania, Scrum Courses Maryland, Scrum Courses Virginia, Scrum Courses New Jersey
+description: Todd Miller Professional Scrum Trainer for Scrum.org offering Scrum Training and Scrum Courses in the Northeastern United States.
 chart: true
 ---
 

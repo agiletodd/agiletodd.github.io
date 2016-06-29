@@ -5,10 +5,12 @@ layout: post
 title: "Three C's: The Components of a User Story"
 date: 2016-02-22 18:36
 comments: true
+description: The Three Cs of User Story Components
 category: User-Stories
 tags:
 - user stories
 - product backlog
+- Todd Miller
 ---
 
 The 3C's is a formula Ron Jeffries created to capture the components of a user story.

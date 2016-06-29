@@ -3,6 +3,7 @@ author: Todd Miller
 linkedin_username: todd-miller-16996420
 layout: post
 title: "The Consequences of Poor Product Ownership"
+description: Three major things a Product Owner can do to negatively impact a Scrum Team
 date: 2016-03-15 20:30
 comments: true
 category: Product-Owner

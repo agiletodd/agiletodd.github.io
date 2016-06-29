@@ -5,11 +5,13 @@ layout: post
 title: "T-Shaped People"
 date: 2016-02-29 12:15
 comments: true
+description: What it means to be a T-Shaped person and be anti-fragile in the workplace
 category: Culture
 tags:
 - Scrum
 - Culture
 - Agile
+- Todd Miller
 ---
 The only title that exists on a development team is "Developer". Hang in there don't quit reading let me explain. Everyone is developing something not just code. It could be a UX person developing wireframes, a QA analyst creating test scripts or a DBA creating data models. How can a person with a strong skillset in a specific area become a better cross-functional teammate? By concentrating on becoming T-Shaped.
 

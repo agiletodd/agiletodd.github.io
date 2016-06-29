@@ -7,10 +7,11 @@ date: 2016-06-15 07:00
 comments: true
 category: Training-Certification
 tags:
-- Training
-- Certifications
-- Agile
-- Scrum
+- Scrum Training
+- Scrum Certifications
+- Agile Certifications
+- Agile Training
+- Todd Miller
 ---
 Looking for training on the Scrum framework but unsure which course is the right course for you? Is your organization struggling with adopting Scrum? Maybe you just want to take a course that will help you build really good software.
 

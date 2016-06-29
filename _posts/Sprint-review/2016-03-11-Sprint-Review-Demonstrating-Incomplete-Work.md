@@ -5,6 +5,7 @@ layout: post
 title: "Demonstrating Incomplete Work in a Sprint Review"
 date: 2016-03-11 06:30
 comments: true
+description: The consequences of Demonstrating Incomplete Work in a Sprint Review
 category: Sprint-Review
 tags:
 - Sprint Review

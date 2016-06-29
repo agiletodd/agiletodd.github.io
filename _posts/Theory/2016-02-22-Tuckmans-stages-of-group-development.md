@@ -3,12 +3,14 @@ author: Todd Miller
 linkedin_username: todd-miller-16996420
 layout: post
 title: "Tuckman's stages of group development"
+description: "Examining Tuckman's stages of group development."
 date: 2016-02-22 12:15
 comments: true
 category: Theory
 tags:
-- Theory
-- Scrum
+- Scrum Theory
+- Tuckman's Stages
+- Todd Miller
 ---
 
 Tuckman's model for group development is an often referred to model when starting and growing new Scrum teams.

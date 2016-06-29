@@ -5,6 +5,7 @@ layout: post
 title: "Sprint Retrospective Five-Stage Approach"
 date: 2016-02-20 08:30
 comments: true
+description: A five stage data driven approach to Sprint Retrospectives
 category: Retrospectives
 tags:
 - Scrum

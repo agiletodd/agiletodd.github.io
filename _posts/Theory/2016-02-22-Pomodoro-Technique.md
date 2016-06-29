@@ -7,9 +7,9 @@ date: 2016-02-22 12:30
 comments: true
 category: Theory
 tags:
-- Theory
-- Scrum
+- Scrum Theory
 - Time Management
+- Todd Miller
 ---
 
 The Pomodoro Technique is a time management technique that uses a timer to break down work into intervals.

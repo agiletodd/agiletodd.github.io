@@ -10,6 +10,7 @@ tags:
 - Scrum
 - Culture
 - Agile
+- Todd Miller
 ---
 A team etiquette may also be called a team working agreement. The purpose of developing a team etiquette is so a team has a set of rules to follow that will enable them to work effectively together. The etiquette should be defined by the team and contain high level ‘rules’ that all team members agree to follow. In a Scrum environment, the Scrum Team owns this item and can use it as a tool to keep the team running smoothly.
 
