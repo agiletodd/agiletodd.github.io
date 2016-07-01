@@ -9,7 +9,8 @@ description: The consequences of Demonstrating Incomplete Work in a Sprint Revie
 category: Sprint-Review
 tags:
 - Sprint Review
-- Scrum
+- Scrum Framework
+- Todd Miller
 ---
 
 I was recently asked the question:
