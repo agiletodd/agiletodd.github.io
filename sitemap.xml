@@ -7,7 +7,7 @@
     </url>
 
     {% for page in site.pages %}
-    {% if page.sitemapexclude %}
+    {% if page.sitemapexclude or page.url contains '/page' %}
     {% else %}
     <url>
         <loc>{{ site.url }}{{ page.url }}</loc>
