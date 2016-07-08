@@ -16,6 +16,13 @@ I welcome the opportunity to come into your organization and train you in a priv
 
 This is a cost effective way to get professional Scrum training in your organization in a private setting. Email me at <a href="mailto:todd@xperientsoftware.com" target="_top">todd@xperientsoftware.com</a> for my availability.
 
+### Professional Scrum Master
+The Professional Scrum Master (PSM) course is a 2-day course that covers the principles and (empirical) process theory underpinning the mechanics, rules and roles of the Scrum framework. Advanced tools for servant-leadership are provided to increase a Scrum Master’s effectiveness. These tools relate to behavioral shifts, working with people and teams, coaching and facilitation techniques, and addressing the organization. Like all Scrum.org courses, students learn through instruction and team-based exercises.
+
+Attending this course will give you a credit to taking the Professional Scrum Master I exam. Upon passing the exam you will receive a PSM I certification.
+
+[Click here for more information](https://www.scrum.org/Courses/Professional-Scrum-Master)
+
 ### Professional Scrum Foundations
 The Professional Scrum Foundations (PSF) course is a 2-day course that teaches Scrum in a highly practical way. Working in a series of Sprints, teams of students build a software application, thereby facing real-life problems. The mechanics, roles, principles and (empirical) process of Scrum are demonstrated. Common missteps and misunderstandings are discussed so students grow a higher awareness of their symptoms.
 
@@ -29,3 +36,10 @@ The Professional Scrum Developer (PSD) course is a 3-day course that teaches how
 Attending this course will give you a credit to taking the Professional Scrum Developer I exam. Upon passing the exam you will receive a PSD certification.
 
 [Click here for more information](https://www.scrum.org/Courses/Professional-Scrum-Developer)
+
+### Frequently Asked Questions
+
++ **Do I get a certification?**
+Attending a class will give you a credit to take an online Scrum.org exam (PSM I or PSD I). To attain a certification, you must pass the exam with a mark of 85% or higher. Both the PSM I and PSD I are online, multiple choice exams with a one hour time-box.
++ **Do I get PDUs for attending Scrum.org courses?**
+Students of Scrum.org courses are able to claim 14 PDUs after attending a two-day Professional Scrum Foundations (PSF), Professional Scrum Master (PSM), Professional Scrum Product Owner (PSPO), or Scaled Professional Scrum (SPS) course and 21 PDUs after attending a three-day Professional Scrum Developer (PSD) course. Please note that PMI PDUs are earned for course attendance and not for passing a Scrum.org assessment. Students can claim PDUs under PMI's "Education courses provided by other third party providers” category. You can claim your PDUs online at [https://ccrs.pmi.org](https://ccrs.pmi.org).
