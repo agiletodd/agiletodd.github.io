@@ -6,7 +6,7 @@ title: "Talking Scrum with the Business"
 date: 2016-07-11 12:00
 comments: true
 category: Scrum-Framework
-imagefeature: negativespace-141.jpg
+imagefeature: woman-checking-the-time.jpg
 tags:
 - Scrum Framework
 - Scrum Stakeholder
@@ -34,12 +34,12 @@ At minimum, I believe it important for us to explain the Scrum framework to them
 We are to be partnering with the business and transparency is a two-way street. Providing a greater understanding of product development with Scrum will provide some context to them. When people have an understanding they are more inclined to help and not resist. Resistance leads to a lack of transparency whereas helping often opens the transparency door.
 
 ### What happens if we don't talk to the business about Scrum?
-I certainly believe it will have a negative on empiricism. As we previously discussed, in order to be guided by experience we must be transparent. We can not properly inspect and adapt without transparency. Teaching a business unit what Scrum and empiricism mean will make them less cautious in their interactions. After all, they are often our stakeholders. Remember to break down the walls with business just as much as we break down the walls in technical domains to form cross-functional teams.
+I certainly believe it will have a negative ramifications on empiricism. As we previously discussed, in order to be guided by experience we must be transparent. We can not properly inspect and adapt without transparency. Teaching a business unit what Scrum and empiricism mean will make them less cautious in their interactions. After all, they are often our stakeholders. Remember to break down the walls with business just as much as we break down the walls in technical domains to form cross-functional teams.
 
 ### Can a business unit use Scrum?
-Business units can absolutely use Scrum to solve their complex problems. They may also implement elements that help them collaborate and communicate. For instance they may choose to meet once a day for fifteen minutes. That being said, unless the Scrum framework is implemented in it's entirety (roles, events and artifacts) do not call it Scrum as Scrum is specifically designed to maximize empiricism.
+Business units can absolutely use Scrum to solve their complex problems. They may also implement elements that help them collaborate and communicate. For instance they may choose to meet once a day for fifteen minutes. That being said, unless the Scrum framework is implemented in it's entirety (roles, events and artifacts) do not call it Scrum. Scrum is specifically designed to maximize empiricism and anything less minimizes it's effectiveness.
 
-What was very interesting to me was the amount of discussion we had on culture and Scrum values. It kept recurring over and over with each group I met with. They appreciated what the Scrum values brought to the table and felt they should be an integral part of how they operate. The Scrum values can be practiced regardless of your domain of expertise.
+What was very interesting to me was the amount of discussion I had with the classes on culture and Scrum values. It kept recurring over and over with each group. They appreciated what the Scrum values brought to the table and felt they should be an integral part of how they operate. The Scrum values can be practiced regardless of your domain of expertise.
 
 ### Conclusion
-I had a great time sitting and discussing Scrum with the business units. It always provides a different vantage point and I am thankful to have been given the opportunity to introduce Scrum to many of them. It is important to involve them on our Scrum journey and not forget how much we need their support.
+I had a great time sitting and discussing Scrum with the business units. It always provides a different vantage point and I am thankful to have been given the opportunity to introduce Scrum to many of them. It is important to involve them in our Scrum journey and not forget how much we need their support.
