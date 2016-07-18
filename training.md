@@ -7,12 +7,14 @@ description: Todd Miller Xperient Software offering Scrum Training and Scrum Cou
 chart: true
 ---
 
-I deliver both private and public Scrum.org courses throughout the Northeastern United States. Below you can find a description for the Scrum.org courses I am presently licensed to teach. For additional information on a course please email me at <a href="mailto:todd@xperientsoftware.com" target="_top">todd@xperientsoftware.com</a>
+New to Scrum? Need a refresher? Struggling with your implementation? We provide both private and public professional Scrum courses throughout the Northeastern United States. The courseware we offer is the official courseware of Scrum.org which is the premier Scrum training in the software development industry. Why settle for less than the best when your organization is counting on agility.
+
+Below you can find a description for the courses presently available by us. For additional information on a course please email me at <a href="mailto:todd@xperientsoftware.com" target="_top">todd@xperientsoftware.com</a>
 
 {% include public_courses.md %}
 
 ### Private Courses
-I welcome the opportunity to come into your organization and train you in a private course. Private courses are for students all residing from the same organization. These courses are generally taught on premise but other accommodations can be made.
+We welcome the opportunity to come into your organization and train you in a private course. Private courses are for students all residing from the same organization. These courses are generally taught on premise but other accommodations can be made.
 
 This is a cost effective way to get professional Scrum training in your organization in a private setting. Email me at <a href="mailto:todd@xperientsoftware.com" target="_top">todd@xperientsoftware.com</a> for my availability.
 
