@@ -3,9 +3,9 @@ author: Todd Miller
 linkedin_username: todd-miller-16996420
 layout: post
 title: "It Worked on my Machine"
-date: 2016-07-14 12:30
+date: 2016-07-15 07:00
 comments: true
-description: Taking a look at the engineering practices and DevOps in an effort to create an open culture of trust
+description: Taking a look at the engineering practices and operations in an effort to arrive at a cohesive solution.
 category: Scrum-Framework
 imagefeature: Programming-Code-l.jpg
 tags:
@@ -25,7 +25,7 @@ This is not a minor problem. Here are two examples which cost organizations a lo
 ### 1 - The Load Balanced Environment
 I worked with a very good development team that had agile engineering practices implemented with purpose: continuous integration builds, automated testing, automated deployments to lower level environments, emergent architecture using SOLID principles, etc. Sprint after Sprint they delivered "done" increments of "potentially shippable" product. The way it should be!
 
-When the Product Owner said "ship it into production" we were all excited. Thoroughly tested and bullet proof we couldn't wait to delight the customer. With the click of a button the software went into production. Some odd hours later the customers started reporting issues of being "auto-magically" logged out of the website.
+When the Product Owner said "ship it into production" we were all excited. Thoroughly tested and bullet proof we couldn't wait to delight the customer. With the click of a button the software went into production. Some odd hours later the customers started reporting issues of being "automatically" logged out of the website.
 
 Everyone on the team dug in and began troubleshooting the issue. Several hours of examination and we determined that we never engineered the software in a way that it could operate in a load balanced environment; the production environment was load balanced across four servers. There are many ways this could have been prevented. The lower level environments did not replicate the production environment nor did we ever talk to operations to consider these types of things.
 
@@ -41,7 +41,7 @@ Not only was this a bad customer experience but the feasibility of everything th
 [//]: # (Question)
 
 ### How can these scenarios be prevented?
-Two great Scrum Teams doing all the right things but what happened? Let's consider the phase gated stages of waterfall for which we're trying to move past in software development:
+Two great Scrum Teams doing all the right things but what happened? Let's consider the phase gated stages of waterfall where each of the below stages occurs synchronously and must have sign off before the next stage begins:
 
 + Analysis
 + Design
@@ -49,11 +49,13 @@ Two great Scrum Teams doing all the right things but what happened? Let's consid
 + Testing
 + Deployment
 
-Each of the above stages requires sign off before the next stage begins. In Scrum, these stages don't exist; we do analysis, design, development, testing and deployment (hopefully at minimum to lower level environments) in thirty days or less. Is it safe to say in both of these scenarios the teams failed to fully consider deployment? Would they have been better bringing a team member from operations into the Scrum Team or at least having them as a stakeholder in Sprint Reviews? My opinion is yes.
+In Scrum, these stages don't exist; we do analysis, design, development, testing and deployment (hopefully at minimum to lower level environments) in thirty days or less. Is it safe to say in both of these scenarios the teams failed to fully consider deployment? Would they have been better bringing a team member from operations into the Scrum Team or at least having them as a stakeholder in Sprint Reviews?
 
 [//]: # (Answer)
-We could blame the teams for not considering every technical element however software development is complex. I believe these teams didn't fully have a comprehension of what a truly "done" increment of working software was. In order to have that full consideration a team must be cross-functional; they have all the skills necessary to delivery a "done" increment which has no more work left to reach production.
+We could blame the teams for not considering every technical element but software development is a complex profession. I believe the teams didn't fully have a comprehension of what a truly "done" increment of working software was. In order to have that full consideration a team must be cross-functional where they have all the skills necessary to delivery a "done" increment. There should be no more work left to reach production.
 
-We all come from different backgrounds and experiences. That leads us all to ask different questions and take into consideration things that not each individual person might think of. That's the beauty of Scrum which is upheld by the Scrum values (Openness, Courage, Respect, Focus, Commitment).
+In both of these situations operations was considered an afterthought. We all come from different backgrounds and experiences. That leads us all to ask different questions and take into consideration technical elements from all of our backgrounds. That's the beauty of Scrum which is upheld by the Scrum values (Openness, Courage, Respect, Focus, Commitment) where we have no fear of speaking up.
 
-We have to break down the silos that still exist. This is a cultural problem that exists in a lot of organizations today. Years ago we tackled the development/test silo problem. I believe it's now time to tackle the development/test/operations problem.
+We have to break down the silos that still exist. This is a cultural problem that is in a lot of organizations today. Years ago we tackled the development/test silo problem. I believe it's now time to tackle the development/test/operations problem.
+
+How else do you think these scenarios could have been prevented? I'm interesting in hearing your opinion.
