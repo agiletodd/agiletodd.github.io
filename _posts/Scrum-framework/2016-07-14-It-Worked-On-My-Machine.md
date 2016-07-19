@@ -5,7 +5,7 @@ layout: post
 title: "It Worked on my Machine"
 date: 2016-07-15 07:00
 comments: true
-description: Taking a look at the engineering practices and operations in an effort to arrive at a cohesive solution.
+description: What happens when operations and production deployment is in afterthought in software development?
 category: Scrum-Framework
 imagefeature: Programming-Code-l.jpg
 tags:
