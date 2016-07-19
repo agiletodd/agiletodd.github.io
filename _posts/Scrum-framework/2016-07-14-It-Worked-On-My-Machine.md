@@ -5,7 +5,7 @@ layout: post
 title: "It Worked on my Machine"
 date: 2016-07-15 07:00
 comments: true
-description: What happens when operations and production deployment is in afterthought in software development?
+description: What happens when operations is in afterthought in software development?
 category: Scrum-Framework
 imagefeature: Programming-Code-l.jpg
 tags:
