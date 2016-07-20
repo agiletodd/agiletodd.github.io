@@ -3,7 +3,7 @@ layout: page
 permalink: /training/
 title: Scrum Training
 tags: Scrum Course, Scrum Training, Scrum Courses New York, Scrum Courses Pennsylvania, Scrum Courses Maryland, Scrum Courses Virginia, Scrum Courses New Jersey, Todd Miller
-description: Todd Miller Xperient Software offering Scrum Training and Scrum Courses in the Northeastern United States
+description: Xperient Software offering Professional Scrum Training and Scrum Courses in the Northeastern United States.
 chart: true
 ---
 
