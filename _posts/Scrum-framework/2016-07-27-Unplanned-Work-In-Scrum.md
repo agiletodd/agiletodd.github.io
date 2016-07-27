@@ -39,7 +39,7 @@ Is production fire fighting just something that you do and account for in every 
 No matter what patterns and practices a Development Team has established the focus should be on a high quality, "potentially shippable" product Increment at the end of every Sprint. To establish transparency with the Product Owner on the effort it takes to create an Increment, a Development Team should have a definition of "done". Defining "done" will create a path to technical excellence and a common understanding of what it takes to have a high quality "done" Increment. Once established, there must be a common understanding that not obeying the definition of "done" is trading a short term gain for a long term loss.
 
 ### 4 - Use your Retrospective to Adapt
-There is not a one size fits all solution to dealing with interruptions during a Sprint. I have seen success in teams adapt and use these methods for interruptions:
+There is not a one size fits all solution to dealing with interruptions during a Sprint. A few ways I have seen Scrum Teams adapt and solve this problem are:
 
 + Always having a Sprint Backlog item to deal with interruptions
 + Capacity plan (in hours) and allocate a percentage of time for interruptions
