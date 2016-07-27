@@ -7,7 +7,7 @@ date: 2016-07-27 12:15
 comments: true
 description: Unplanned work can silently be crushing your Scrum Team. Here are four ways to cope.
 category: Scrum-Framework
-imagefeature:
+imagefeature: firefighters.jpg
 tags:
 - Scrum
 - Agile
