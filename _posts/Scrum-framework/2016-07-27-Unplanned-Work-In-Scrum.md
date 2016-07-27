@@ -3,7 +3,7 @@ author: Todd Miller
 linkedin_username: todd-miller-16996420
 layout: post
 title: "Four ways to deal with unplanned work during a Sprint"
-date: 2016-07-27 07:00
+date: 2016-07-27 12:15
 comments: true
 description: NEED A DESCRIPTION
 category: Scrum-Framework
