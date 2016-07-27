@@ -5,7 +5,7 @@ layout: post
 title: "Four ways to deal with unplanned work during a Sprint"
 date: 2016-07-27 12:15
 comments: true
-description: NEED A DESCRIPTION
+description: Unplanned work can silently be crushing your Scrum Team. Here are four ways to cope.
 category: Scrum-Framework
 imagefeature:
 tags:
