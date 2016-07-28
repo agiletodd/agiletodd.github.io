@@ -3,7 +3,7 @@ author: Todd Miller
 linkedin_username: todd-miller-16996420
 layout: post
 title: "Four ways to deal with unplanned work during a Sprint"
-date: 2016-07-27 12:15
+date: 2016-07-28 12:15
 comments: true
 description: Unplanned work can silently be crushing your Scrum Team. Here are four ways to cope.
 category: Scrum-Framework
