@@ -14,7 +14,7 @@ tags:
 - Todd Miller
 ---
 
-[//]: # (Situation)
+[//]: # (Situation) 
 At some point almost every Scrum team will deal with a fire drill or urgent request that threatens their ability to deliver an Increment of "potentially shippable" product in a Sprint. In most cases this unplanned work is impossible to take into consideration during Sprint Planning. In Scrum, urgent requests can not be ignored simply because they are not in the Sprint Backlog. Ignoring them until the next Sprint is not always a good business answer as they are often unappealing issues negatively impacting the customers.
 
 [//]: # (Complication)
