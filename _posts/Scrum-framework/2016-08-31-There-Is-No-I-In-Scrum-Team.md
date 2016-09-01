@@ -30,9 +30,14 @@ Let's consider language and behavior as variables that can significantly have a 
 When presenting or discussing work to influencers outside of the team, saying "I" portrays to outside observers old thought patterns that we are working diligently to overcome. Focusing on the output of an individual rather than the output of a team is comfortable and the norm in the old style of working. That's not how Scrum works best. The roles in Scrum each have some differences in accountability but does Scrum work proper if we operate as individuals in those roles? From the Development Team perspective, does it work if each developer works in a silo?
 
 ### "We"
-I believe it better for a Scrum Team to portray themselves as "We". Who implemented the great idea you had? Who tested the code you have in development? Who dug deep into the customers mind for requirements? Who did your code review?
+I believe it is better for a Scrum Team to portray themselves as "We". There is so much cross-disciplinary work that often passes over the desk of several individuals before the team can consider a Sprint Backlog item it done. You might ask yourself:
+
++ Who implemented the great idea I had?
++ Who tested my code?
++ Who dug deep into the customers mind for requirements?
++ Who did my code review?
 
 There are a lot of factors and people involved in developing a great product. "We" can cohesively win and lose as a team while learning from our success and failures together.
 
 ### "I" and "We"
-There is a place for "I" however. Within the Scrum Team "We" want to follow Scrum Values which is and "I" an a "We" game. "We" want to be transparent about our individual work and struggles. It's how "We" identify as individual contributors to a team. It's how "We" know who needs help. It's how "We" might improve. That is why "I" commit to being a good teammate and portray this team as a "We".
+There is still a place for "I". Within the Scrum Team "We" want to follow Scrum Values which is and "I" an a "We" game. "We" want to be transparent about our individual work and struggles. It's how "We" identify as individual contributors to a team. It's how "We" know who needs help. It's how "We" might improve. That is why "I" commit to being a good teammate and to portray our team as "We".
