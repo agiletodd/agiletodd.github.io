@@ -40,4 +40,4 @@ I believe it is better for a Scrum Team to portray themselves as "We". There is 
 There are a lot of factors and people involved in developing a great product. "We" can cohesively win and lose as a team while learning from our success and failures together.
 
 ### "I" and "We"
-There is still a place for "I". Within the Scrum Team "We" want to follow Scrum Values which is and "I" an a "We" game. "We" want to be transparent about our individual work and struggles. It's how "We" identify as individual contributors to a team. It's how "We" know who needs help. It's how "We" might improve. That is why "I" commit to being a good teammate and to portray our team as "We".
+There is still a place for "I". Within the Scrum Team "We" want to follow Scrum Values which should be viewed from both the "I" and "We" perspectives. "We" want to be transparent about our individual work and struggles. It's how "We" identify as individual contributors to a team. It's how "We" know who needs help. It's how "We" might improve. That is why "I" commit to being a good teammate and to portray our team as "We".
