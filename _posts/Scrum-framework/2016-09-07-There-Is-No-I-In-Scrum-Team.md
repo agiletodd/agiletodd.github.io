@@ -7,7 +7,6 @@ date: 2016-09-07 21:30
 comments: true
 description: Does speaking from an individual perspective outside of a team negatively impact self-organization?
 category: Scrum-Framework
-sitemapexclude: true
 imagefeature:
 tags:
 - Scrum
