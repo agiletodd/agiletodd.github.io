@@ -4,7 +4,7 @@ linkedin_username: todd-miller-16996420
 layout: post
 title: "Product Owners: Product Backlog Items can be Deleted"
 description: "Why it's okay to delete Product Backlog Items"
-date: 2017-01-17 210:00
+date: 2017-01-21 17:00
 comments: true
 category: Product-Owner
 tags:
