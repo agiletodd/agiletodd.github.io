@@ -7,7 +7,6 @@ date: 2016-07-15 07:00
 comments: true
 description: NEED A DESCRIPTION
 category: Scrum-Framework
-sitemapexclude: true
 imagefeature:
 tags:
 - Scrum
