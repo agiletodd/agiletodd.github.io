@@ -3,7 +3,7 @@ author: Todd Miller
 linkedin_username: todd-miller-16996420
 layout: post
 title: "Optimizing Product Backlog Refinement"
-date: 2017-03-30 20:30
+date: 2017-03-28 20:30
 comments: true
 description: Is your Scrum Team struggling during Sprint Planning? Is your Product Backlog in shambles?
 category: Scrum-Framework
