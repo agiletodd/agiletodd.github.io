@@ -7,7 +7,7 @@ date: 2017-03-28 20:30
 comments: true
 description: Is your Scrum Team struggling during Sprint Planning? Is your Product Backlog in shambles?
 category: Scrum-Framework
-imagefeature:
+imagefeature: refinery-2059775_1280.jpg
 tags:
 - Scrum
 - Product Backlog Refinement
