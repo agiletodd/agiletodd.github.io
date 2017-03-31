@@ -16,7 +16,7 @@ tags:
 ---
 
 [//]: # (Situation)
-I've recently been involved with several Scrum Teams that are struggling to have the right level of detail in their Product Backlog items. Some symptoms: difficulty Sprint Planning sessions, a massive or very small Product Backlog, or a lack of understanding during a Sprint. All of the teams I spoke with had refinement activities in place during a Sprint. It is important to note that Product Backlog refinement is not a formal event in Scrum. It is an important activity; however, the implementation may vary drastically by team.
+I've recently been involved with several Scrum Teams that are struggling to have the right level of detail in their Product Backlog items. Some symptoms: difficulty during Sprint Planning sessions, a massive or very small Product Backlog, or a lack of understanding during a Sprint. All of the teams I spoke with had refinement in place. It is important to note that Product Backlog refinement is not a formal event in Scrum. It is an important activity; however, the implementation may vary drastically by team.
 
 The Scrum Guide defines Product Backlog refinement as:
 
@@ -43,7 +43,7 @@ There is an inclination that in self-organizing Development Teams everybody need
 I feel it is important to mention that as a Product Owner, one thing I am conscience of is trying to find time with a Development Team(s) to get collective buy-in for the plan I am laying out. I also want to get their opinion on how things should be ordered or if they have any ideas for new Product Backlog Items. You may use a more formal event for this (or not).
 
 ### Define what "Ready" means to your Scrum Team
-You may introduce a complimentary Scrum practice called the definition of "Ready". The definition of "Ready" is a short checklist of things that a Scrum Team should do before a Product Backlog Item can be brought into a Sprint. It is a helper to set some boundaries around what a Development Team might need to get a Product Backlog item "Done".
+You may introduce a complimentary Scrum practice called the definition of "Ready". The definition of "Ready" is a short checklist of things that a Scrum Team should do before a Product Backlog Item will be brought into a Sprint. It is a helper to set some boundaries around what a Development Team might need to get a Product Backlog item "Done".
 
 Be careful that this does not become a strict contract between the Development Team and the Product Owner. The Development Team serves the Product Owner. If the Product Owner comes to Sprint Planning with a very high-value Product Backlog Item that doesn't meet the "Ready" criteria it shouldn't matter. The value of the work does not change.
 
