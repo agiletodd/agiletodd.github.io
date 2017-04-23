@@ -23,7 +23,7 @@ chart: true
 {% endfor %}
 
 <span>
-<img src="/images/todd-miller.png" align="left" style="margin:0px 50px 0px 0px" />
+<img src="/images/todd-miller.png" align="left" style="margin:0px 50px 0px 0px" alt="Todd Miller" />
 
 Hi my name is Todd Miller and I am a Professional Scrum Trainer for Scrum.org and owner of Xperient Software LLC. I am located in York, Pennsylvania which makes me easily accessible for training throughout the Northeastern United States.
 
