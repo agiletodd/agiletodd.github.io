@@ -46,7 +46,7 @@ The Professional Scrum Product Owner™ is a 2-day course that provides the foun
 
 Over the 2 days, students will develop and solidify their knowledge of being a Product Owner through instruction and team-based exercises. The breadth of the role’s responsibilities in delivering a successful product will become more clear from an Agile perspective. Metrics are identified to track the creation of value and the successful delivery of the product to the marketplace.
 
-Attending this course will give you a credit to taking the Professional Scrum Master I exam. Upon passing the exam you will receive a PSPO I certification.
+Attending this course will give you a credit to taking the Professional Scrum Product Owner I exam. Upon passing the exam you will receive a PSPO I certification.
 
 [Click here for more information](https://www.scrum.org/courses/professional-scrum-product-owner-training)
 
