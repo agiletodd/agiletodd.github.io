@@ -22,7 +22,10 @@ chart: true
     {% endif %}
 {% endfor %}
 
-Hi my name is Todd Miller and I am a Professional Scrum Trainer for Scrum.org and a Delivery Director at Celerity. I am located in York, Pennsylvania which makes me easily accessible for training throughout the Northeastern United States.
+<span>
+<img src="/images/todd-miller.png" align="left" style="margin:0px 50px 0px 0px" alt="Todd Miller" />
+
+Hi my name is Todd Miller and I am a Professional Scrum Trainer for Scrum.org and owner of Xperient Software LLC. I am located in York, Pennsylvania which makes me easily accessible for training throughout the Northeastern United States.
 
 ### About Me
 I have experience as a Scrum Master, Product Owner, Agile Coach and Developer on variety of technical and creative projects across a multitude of industries. At present I train and coach enterprises and teams across the United States on the Scrum framework, enterprise agile transformation and professional software development. On the technical side, I have development experience in the Microsoft .NET technology stack, Team Foundation Server and Visual Studio Team Services.
